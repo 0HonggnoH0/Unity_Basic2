@@ -9,9 +9,14 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: abc470b01bc16054baaef312f6474e76, type: 3}
-  m_Name: Test
+  m_Script: {fileID: 11500000, guid: 32fe31f682b65a6448359945f85ada09, type: 3}
+  m_Name: Dialogue
   m_EditorClassIdentifier: 
   SheetName: Assets/Data/Data.xlsx
-  WorksheetName: Test
-  dataArray: []
+  WorksheetName: Dialogue
+  dataArray:
+  - id: 1
+    character: 10101
+    position: 
+    bmimage: 
+    dialogue: 
